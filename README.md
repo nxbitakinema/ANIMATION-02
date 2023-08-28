@@ -1,7 +1,1 @@
-
-https://github.com/nxbitakinema/NXANI02/assets/93174599/968bf9dc-77d5-47ff-b76f-dc1b5a4ae471
-
-
-<img src="https://github.com/nxbitakinema/NXANI02/assets/93174599/bbf6ec04-4a72-429c-bede-2c95c4fbcd72" height="600" alt="Screenshot"/>  <img src="https://github.com/nxbitakinema/NXANI02/assets/93174599/9d181a5e-968a-448a-8793-97358828a8fc" height="600" alt="Screenshot"/> 
-
-
+![v80](https://github.com/nxbitakinema/TEST-ANIMATION-2/assets/93174599/ff774fde-b09a-4f2d-8674-fabcf6b4da5f) ![40](https://github.com/nxbitakinema/TEST-ANIMATION-2/assets/93174599/e3b1d5c7-bed1-4972-a24f-8208957e81a2) ![41](https://github.com/nxbitakinema/TEST-ANIMATION-2/assets/93174599/212685b6-c52d-47d0-8181-3f448d2e0ff7)
